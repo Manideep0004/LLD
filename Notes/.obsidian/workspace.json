@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "42fcaf920a82c894",
+        "id": "edd172fcf611cdf1",
         "type": "tabs",
         "children": [
           {
-            "id": "9b1d4cb60c491982",
+            "id": "2c024dc4c229718e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOPs/3. Inheritance - IS-A Relationship.md",
+                "file": "OOPs/6. Association, Aggregation, Composition.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Inheritance - IS-A Relationship"
+              "title": "6. Association, Aggregation, Composition"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOPs/3. Inheritance - IS-A Relationship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. Inheritance - IS-A Relationship"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOPs/3. Inheritance - IS-A Relationship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3. Inheritance - IS-A Relationship"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOPs/3. Inheritance - IS-A Relationship.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Inheritance - IS-A Relationship"
+              "title": "Outline"
             }
           }
         ]
@@ -183,12 +180,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "9b1d4cb60c491982",
+  "active": "2c024dc4c229718e",
   "lastOpenFiles": [
-    "OOPs/5. Abstraction - Hiding Implementation.md",
     "OOPs/6. Association, Aggregation, Composition.md",
-    "OOPs/4. Polymorphism - Many Forms.md",
+    "Pasted image 20260727153247.png",
+    "Pasted image 20260727153157.png",
+    "Pasted image 20260727153028.png",
+    "Pasted image 20260727153021.png",
+    "OOPs/5. Abstraction - Hiding Implementation.md",
     "OOPs/3. Inheritance - IS-A Relationship.md",
+    "OOPs/4. Polymorphism - Many Forms.md",
     "OOPs/2. Encapsulation - Data Hiding.md",
     "OOPs/1. Classes and Objects.md",
     "OOPs/Quick Reference Table.md",
