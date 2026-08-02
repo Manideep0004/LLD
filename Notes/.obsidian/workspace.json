@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOPs/6. Association, Aggregation, Composition.md",
+                "file": "AI-Native Mindset/3. Git Workflows & Version Control.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Association, Aggregation, Composition"
+              "title": "3. Git Workflows & Version Control"
+            }
+          },
+          {
+            "id": "74ff5cb9fba7271e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI-Native Mindset/1. LLM APIs & Integration.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. LLM APIs & Integration"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -45,6 +60,20 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
+            }
+          },
+          {
+            "id": "10aec26be8e52b1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI-Native Mindset/1. LLM APIs & Integration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. LLM APIs & Integration"
             }
           },
           {
@@ -180,8 +209,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "2c024dc4c229718e",
+  "active": "74ff5cb9fba7271e",
   "lastOpenFiles": [
+    "AI-Native Mindset/2. Validating and Auditing AI Generated Code.md",
+    "Untitled.md",
+    "AI-Native Mindset/3. Git Workflows & Version Control.md",
+    "AI-Native Mindset/1. LLM APIs & Integration.md",
+    "AI-Native Mindset/New Text Document.md",
+    "AI-Native Mindset/New Text Document.txt",
+    "Current_Affairs.md",
+    "AI-Native Mindset",
     "OOPs/6. Association, Aggregation, Composition.md",
     "Pasted image 20260727153247.png",
     "Pasted image 20260727153157.png",
